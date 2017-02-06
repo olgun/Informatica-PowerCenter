@@ -1,0 +1,1 @@
+IIF (NOT ISNULL(process_run_id1) AND NOT ISNULL(feed_id1) AND NOT ISNULL(table_name1), DD_UPDATE, DD_INSERT)
