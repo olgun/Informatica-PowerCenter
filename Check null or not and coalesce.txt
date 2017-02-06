@@ -1,0 +1,1 @@
+IIF(NOT ISNULL(column), column, 0)
