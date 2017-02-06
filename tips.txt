@@ -1,0 +1,4 @@
+Tips
+----
+
+1. Expression transformation is needed after every union and joiner transformation for full pushdown optimization!
